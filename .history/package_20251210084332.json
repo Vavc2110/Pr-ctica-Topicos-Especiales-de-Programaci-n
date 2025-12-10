@@ -1,0 +1,15 @@
+{
+  "name": "api-res-vavc",
+  "version": "1.0.0",
+  "description": "practica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ValeriaV",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.2.1"
+  }
+}
